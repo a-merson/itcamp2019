@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Стачка.Продажи.Домен
+namespace Itcamp.Продажи.Домен
 {
     public class Заказ
     {

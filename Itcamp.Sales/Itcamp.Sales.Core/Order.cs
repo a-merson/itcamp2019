@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Stachka.Sales.Core
+namespace Itcamp.Sales.Core
 {
     public class Order
     {

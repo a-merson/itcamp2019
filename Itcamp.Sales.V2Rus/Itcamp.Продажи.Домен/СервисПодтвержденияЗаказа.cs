@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Linq;
-using Стачка.Продажи.Домен;
+using Itcamp.Продажи.Домен;
 
-namespace Стачка.Sales.Application
+namespace Itcamp.Sales.Application
 {
     public class СервисПодтвержденияЗаказа
     {

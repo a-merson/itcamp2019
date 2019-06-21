@@ -1,4 +1,4 @@
-﻿namespace Стачка.Продажи.Домен
+﻿namespace Itcamp.Продажи.Домен
 {
     public enum СтатусЗаказа
     {

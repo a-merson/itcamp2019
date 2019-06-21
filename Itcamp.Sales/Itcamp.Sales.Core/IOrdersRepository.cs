@@ -1,6 +1,6 @@
 ﻿using System.Linq;
 
-namespace Stachka.Sales.Core
+namespace Itcamp.Sales.Core
 {
     public interface IOrdersRepository
     {

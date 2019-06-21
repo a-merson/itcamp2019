@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Linq;
 
-namespace Stachka.Sales.Core
+namespace Itcamp.Sales.Core
 {
     public class OrderCheckoutService
     {

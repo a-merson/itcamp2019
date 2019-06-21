@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Stachka.Sales.Core
+namespace Itcamp.Sales.Core
 {
     class Dummy
     {

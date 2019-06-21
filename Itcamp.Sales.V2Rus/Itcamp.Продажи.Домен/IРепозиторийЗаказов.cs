@@ -1,6 +1,6 @@
 ﻿using System.Linq;
 
-namespace Стачка.Продажи.Домен
+namespace Itcamp.Продажи.Домен
 {
     public interface IРепозиторийЗаказов
     {

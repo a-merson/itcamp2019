@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 
-namespace Stachka.Sales.Core
+namespace Itcamp.Sales.Core
 {
     public class SalesDbContext : DbContext
     {
